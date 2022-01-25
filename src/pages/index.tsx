@@ -43,7 +43,7 @@ const Home: NextPage = () => {
               "rounded-lg text-sm md:text-lg"
             )}
           >
-            npx degit yehezkielgunawan/yehez-nexttailwind-starter [APP_NAME]
+            npx degit yehezkielgunawan/next-tailwind-polos [APP_NAME]
           </code>
           <h3>OR</h3>
           <code
@@ -53,12 +53,12 @@ const Home: NextPage = () => {
             )}
           >
             npx create-next-app --example
-            https://github.com/yehezkielgunawan/yehez-nexttailwind-starter
+            https://github.com/yehezkielgunawan/next-tailwind-polos
             [YOUR_APP_NAME]
           </code>
         </div>
         <a
-          href="https://github.com/yehezkielgunawan/yehez-nexttailwind-starter/generate"
+          href="https://github.com/yehezkielgunawan/next-tailwind-polos/generate"
           target="_blank"
           rel="noreferrer"
         >
@@ -79,7 +79,7 @@ const Home: NextPage = () => {
         </a>
         <div className="flex flex-wrap items-center justify-center gap-3">
           <a
-            href="https://github.com/yehezkielgunawan/yehez-nexttailwind-starter"
+            href="https://github.com/yehezkielgunawan/next-tailwind-polos"
             target="_blank"
             rel="noreferrer"
           >
@@ -96,7 +96,7 @@ const Home: NextPage = () => {
             </button>
           </a>
           <a
-            href="https://vercel.com/import/git?s=https://github.com/yehezkielgunawan/yehez-nexttailwind-starter"
+            href="https://vercel.com/import/git?s=https://github.com/yehezkielgunawan/next-tailwind-polos"
             target="_blank"
             rel="noreferrer"
           >
@@ -112,7 +112,7 @@ const Home: NextPage = () => {
             </button>
           </a>
           <a
-            href="https://app.netlify.com/start/deploy?repository=https://github.com/yehezkielgunawan/yehez-nexttailwind-starter"
+            href="https://app.netlify.com/start/deploy?repository=https://github.com/yehezkielgunawan/next-tailwind-polos"
             target="_blank"
             rel="noreferrer"
           >
